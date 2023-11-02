@@ -6,13 +6,13 @@ This repo contains a Jupyter notebook to lead a quick workshop on how embeddings
 
 ### Git LFS Setup
 
-   $ brew install git-lfs
-   $ git lfs install
+    $ brew install git-lfs
+    $ git lfs install
    
 If you haven't cloned the repo, go ahead and do it now. Otherwise -
    
-   $ cd clustering_workshop
-   $ git lfs pull https://github.com/shaw-matt/clustering_workshop.git
+    $ cd clustering_workshop
+    $ git lfs pull https://github.com/shaw-matt/clustering_workshop.git
 
 ### Docker Setup
 
